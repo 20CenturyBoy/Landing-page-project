@@ -1,0 +1,64 @@
+ul{
+    margin:0;
+    list-style: none;
+}
+
+.nav-bar,.links,.header-main,.cards {
+    display:flex;
+}
+
+.link,.website-main-text{
+    font-size:18px;
+    color:#E5E7EB;
+}
+
+button,.singup{
+    background-color: #3882F6;
+}
+
+a{
+    text-decoration: none;
+}
+
+.header{
+    background-color: #1F2937;
+    padding: 10px 200px 100px;
+    justify-content: space-between;
+
+}
+
+.nav-bar{
+    justify-content:space-between;
+}
+
+.homepage-link{
+    font-size:24px;
+    font-weight:bold;
+    color:#F9FAF8
+}
+
+.links{
+    gap:5px;
+}
+
+.website-title{
+    font-size:48px;
+    font-weight:extra-bold;
+    color:#F9FAF8;
+}
+
+button{
+    border-radius: 10px;
+    padding:5px 25px;
+    font-size:15px;
+    font-weight:bold;
+    color:white;
+}
+
+.main-image{
+    width:700px;
+    height:240px;
+
+}
+
+
